@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timmeeew
 - 👀 I’m interested in Python and Lua
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python && C#
 - 📫 How to reach me timme4225 on Discord
 
 <!---
