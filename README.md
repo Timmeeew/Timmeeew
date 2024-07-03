@@ -1,4 +1,4 @@
-Hello, I will mainly store my scripts here, all the public ones are open-sourced to anyone.
+Hello, I will mainly store my scripts here, all the public repositories are open-sourced to anyone.
 
 <!---
 Timmeeew/Timmeeew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
